@@ -1,6 +1,6 @@
-# first_project
+# EPL Stat Hub 
 
-A new Flutter project.
+An upcoming app that allows for fans of the premier league to view in-depth statistics of their favorite teams and players!
 
 ## Getting Started
 
